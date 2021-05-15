@@ -128,7 +128,7 @@ Let us use RGB values to represent an Id attribute;
 
 
 
-### 3.Changing the Font Size and Font Family of an Element
+## 3.Changing the Font Size and Font Family of an Element
 In order to change the font size of an element,the **font-size** element is introduced like this;
 ```html
 h2{
@@ -152,7 +152,7 @@ In order to change the font name of an element,the **font-name** element is intr
  }
 </style>
 ```
-### 4.Sizing Images
+## 4.Sizing Images
 CSS uses a property known as **width** to size elements by the help of class declarations such as **.smaller-width** and **.larger-image** like this;
 ```html
 <style>
@@ -166,7 +166,7 @@ This should also be incorporated into your HTML element like this;
 <img class= "smaller-image">
 ```
 
-### 5.Styling HTML Using CSS
+## 5.Styling HTML Using CSS
   Let us create a HTML element and style it using CSS;
   ```html
   <!DOCTYPE html>
